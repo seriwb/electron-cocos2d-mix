@@ -15,6 +15,6 @@
     "tests"
   ],
   "dependencies": {
-    "cocos2d-html5": "Cocos2d-html5-v3.12"
+    "cocos2d-html5": "*"
   }
 }
