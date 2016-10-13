@@ -1,0 +1,20 @@
+{
+  "name": "electron-cocos2d-mix",
+  "description": "",
+  "main": "main.js",
+  "authors": [
+    "seri <seri.wb@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/seriwb/electron-cocos2d-mix#readme",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "cocos2d-html5": "Cocos2d-html5-v3.12"
+  }
+}
